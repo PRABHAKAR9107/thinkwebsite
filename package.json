@@ -1,0 +1,22 @@
+{
+  "name": "thinkwebsite",
+  "version": "1.0.0",
+  "description": "It is the offical website.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRABHAKAR9107/thinkwebsite.git"
+  },
+  "keywords": [
+    "ezmata"
+  ],
+  "author": "Ezmata Technologies PVT. LTD.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRABHAKAR9107/thinkwebsite/issues"
+  },
+  "homepage": "https://github.com/PRABHAKAR9107/thinkwebsite#readme"
+}
